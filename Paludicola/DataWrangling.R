@@ -9,7 +9,8 @@ library(stringr)
 #Life 2022 <- 0
 #Catalunya <- 11
 #total without removing 0 and NAs = 97
-
+#total removing NAs from 5 of the 6 variables = 87
+#total removing every NAs = 79
 
 # El Moro -----------------------------------------------------------------
 
